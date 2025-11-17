@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 😁 About me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 안녕하세요, </li>"내가 만든 프로그램이 세상을 이롭게 했으면 좋겠다"는 생각으로 </li>항상 도전하며 성장하는 개발자입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 안녕하세요, </li>"내가 만든 프로그램이 세상을 이롭게 했으면 좋겠다"는 생각으로 </li>도전하며 성장하는 개발자입니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
