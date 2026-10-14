@@ -19,24 +19,24 @@ Pick-Px에서 PM과 백엔드 개발을 맡아 실시간 픽셀 업데이트의 
 
 <div align="center">
 
-**Languages**<br>
+<strong>Languages</strong><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C">
 
-**Backend**<br>
+<strong>Backend</strong><br>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot">
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS">
 
-**Data & Realtime**<br>
+<strong>Data &amp; Realtime</strong><br>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis">
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&amp;logo=socketdotio&amp;logoColor=white" alt="Socket.IO">
 <img src="https://img.shields.io/badge/BullMQ-BB2F2F?style=for-the-badge&amp;logoColor=white" alt="BullMQ">
 
-**Infrastructure & Tools**<br>
+<strong>Infrastructure &amp; Tools</strong><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
