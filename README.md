@@ -30,11 +30,9 @@ Pick-Px에서 PM과 백엔드 개발을 맡아 실시간 픽셀 업데이트의 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot">
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS">
 
-<strong>Data &amp; Realtime</strong><br>
+<strong>Data </strong><br>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis">
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&amp;logo=socketdotio&amp;logoColor=white" alt="Socket.IO">
-<img src="https://img.shields.io/badge/BullMQ-BB2F2F?style=for-the-badge&amp;logoColor=white" alt="BullMQ">
 
 <strong>Infrastructure &amp; Tools</strong><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
