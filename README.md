@@ -1,22 +1,47 @@
-# 안녕하세요, 백엔드 개발자입니다.
+<div align="center">
 
-여러 사용자가 동시에 쓰는 서비스에서 데이터가 일관되게 처리되는 방법에 관심이 있습니다. 팀 프로젝트에서는 기획과 백엔드 개발을 맡아 실시간 기능과 동시성 문제를 다뤘습니다.
+<h1>안녕하세요 👋</h1>
+
+<strong>아이디어를 서비스로 옮기고, 여러 사용자가 동시에 쓰는 순간까지 설계하는 백엔드 개발자입니다.</strong>
+
+</div>
+
+Pick-Px에서 PM과 백엔드 개발을 맡아 실시간 픽셀 업데이트의 충돌을 제어하고 비동기 작업 흐름을 구현했습니다. 문제를 정의하는 일부터 실제로 동작하는 서비스를 만드는 일까지 관심을 두고 있습니다.
 
 ## Projects
 
 | 프로젝트 | 역할과 내용 | 코드 |
 | --- | --- | --- |
-| **Pick-Px** | PM · Backend / 실시간 멀티유저 픽셀 캔버스 웹게임. Redis 분산락, Socket.IO, BullMQ를 활용한 동시성 제어와 실시간 처리 | [Backend](https://github.com/anonymity-developer/Pick-px-backend) · [Frontend](https://github.com/anonymity-developer/pick_px_frontend) |
-| **MAIRRY** | 결혼 준비 과정의 계약과 자금 관리를 돕는 금융 AI 서비스 | [Repository](https://github.com/anonymity-developer/MAIRRY) |
+| **Pick-Px** | 여러 사용자가 하나의 캔버스를 동시에 수정하는 웹게임. PM·백엔드를 맡아 Redis 분산락으로 픽셀 충돌을 제어하고 Socket.IO와 BullMQ로 실시간 이벤트와 비동기 작업을 처리했습니다. | [Backend](https://github.com/anonymity-developer/Pick-px-backend) · [Frontend](https://github.com/anonymity-developer/pick_px_frontend) |
+| **MAIRRY** | 결혼 계약서에서 비용과 지급일을 추출하고, 남은 지출과 예상 잔액을 관리하는 금융 AI 서비스입니다. | [Repository](https://github.com/anonymity-developer/MAIRRY) |
 
-## Tech
+## 🛠️ Tech Stacks
 
-| 분야 | 기술 |
-| --- | --- |
-| Languages | Python · TypeScript · Java · C |
-| Backend | FastAPI · Spring Boot · NestJS |
-| Data & Realtime | PostgreSQL · Redis · Socket.IO · BullMQ |
-| Infrastructure & Tools | Docker · Git · Linux |
+<div align="center">
+
+**Languages**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C">
+
+**Backend**<br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS">
+
+**Data & Realtime**<br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis">
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&amp;logo=socketdotio&amp;logoColor=white" alt="Socket.IO">
+<img src="https://img.shields.io/badge/BullMQ-BB2F2F?style=for-the-badge&amp;logoColor=white" alt="BullMQ">
+
+**Infrastructure & Tools**<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
+
+</div>
 
 ## Experience & Education
 
