@@ -1,27 +1,36 @@
-<div align= "center">
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 😁 About me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 안녕하세요, </li>"내가 만든 프로그램이 세상을 이롭게 했으면 좋겠다"는 생각으로 </li>도전하며 성장하는 개발자입니다. </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
-          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-          </div>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://velog.io/@squee_z_e> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@squee_z_e"> </a>
-         <a href=mailto:anonymity.developer@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:anonymity.developer@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-</div>
-    
+# 안녕하세요, 백엔드 개발자입니다.
+
+여러 사용자가 동시에 쓰는 서비스에서 데이터가 일관되게 처리되는 방법에 관심이 있습니다. 팀 프로젝트에서는 기획과 백엔드 개발을 맡아 실시간 기능과 동시성 문제를 다뤘습니다.
+
+## Projects
+
+| 프로젝트 | 역할과 내용 | 코드 |
+| --- | --- | --- |
+| **Pick-Px** | PM · Backend / 실시간 멀티유저 픽셀 캔버스 웹게임. Redis 분산락, Socket.IO, BullMQ를 활용한 동시성 제어와 실시간 처리 | [Backend](https://github.com/anonymity-developer/Pick-px-backend) · [Frontend](https://github.com/anonymity-developer/pick_px_frontend) |
+| **MAIRRY** | 결혼 준비 과정의 계약과 자금 관리를 돕는 금융 AI 서비스 | [Repository](https://github.com/anonymity-developer/MAIRRY) |
+
+## Tech
+
+| 분야 | 기술 |
+| --- | --- |
+| Languages | Python · TypeScript · Java · C |
+| Backend | FastAPI · Spring Boot · NestJS |
+| Data & Realtime | PostgreSQL · Redis · Socket.IO · BullMQ |
+| Infrastructure & Tools | Docker · Git · Linux |
+
+## Experience & Education
+
+- **인피니쇼** · IT 개발팀 풀스택 개발 인턴 (2025.10–2026.01)
+- **삼성청년SW·AI아카데미 16기** · 교육 중 (2026.07–현재)
+- **크래프톤 정글 8기** · 수료 (2025.03–2025.07)
+- **광운대학교** · 전자융합공학과 졸업 (2024.02)
+- **Google 머신러닝 부트캠프 4기** · 수료 (2023)
+
+## Beyond Code
+
+광운대학교 총학생회 비상대책위원회 기획국장 · SSAFY 16기 서울지역대표 · 편의점, 행사 운영, 촬영 현장 등 20여 가지 아르바이트 경험
+
+## Contact
+
+- [Email](mailto:anonymity.developer@gmail.com)
+- [Velog](https://velog.io/@squee_z_e)
