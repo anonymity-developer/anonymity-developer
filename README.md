@@ -2,18 +2,18 @@
 
 <h1>안녕하세요 👋</h1>
 
-<strong>아이디어를 서비스로 옮기고, 여러 사용자가 동시에 쓰는 순간까지 설계하는 백엔드 개발자입니다.</strong>
+<strong>아이디어를 서비스로 만들고, 안정적인 운영까지 설계하는 백엔드 개발자입니다.</strong>
 
 </div>
 
-Pick-Px에서 PM과 백엔드 개발을 맡아 실시간 픽셀 업데이트의 충돌을 제어하고 비동기 작업 흐름을 구현했습니다. 문제를 정의하는 일부터 실제로 동작하는 서비스를 만드는 일까지 관심을 두고 있습니다.
+색다른 아이디어들을 내는 것에 강점이 있고, 추진력이 좋고 새로운 기술 도입에 거부감이 없습니다.
 
 ## Projects
 
 | 프로젝트 | 역할과 내용 | 코드 |
 | --- | --- | --- |
-| **Pick-Px** | 여러 사용자가 하나의 캔버스를 동시에 수정하는 웹게임. PM·백엔드를 맡아 Redis 분산락으로 픽셀 충돌을 제어하고 Socket.IO와 BullMQ로 실시간 이벤트와 비동기 작업을 처리했습니다. | [Backend](https://github.com/anonymity-developer/Pick-px-backend) · [Frontend](https://github.com/anonymity-developer/pick_px_frontend) |
-| **MAIRRY** | 결혼 계약서에서 비용과 지급일을 추출하고, 남은 지출과 예상 잔액을 관리하는 금융 AI 서비스입니다. | [Repository](https://github.com/anonymity-developer/MAIRRY) |
+| **Pick-Px** | 여러 사용자가 동시에 하나의 캔버스를 공유하며 자율적으로 경쟁/협력하는 웹게임입니다. r/place에서 착안하여 게이미피케이션과 그룹화 기능을 추가했습니다.  PM·백엔드를 맡아 프로젝트를 리드하고, 초당 1500건의 요청을 처리하는 시뮬레이터 동작시에도 안정적인 서버 구조를 고민했습니다.| [Backend](https://github.com/anonymity-developer/Pick-px-backend) · [Frontend](https://github.com/anonymity-developer/pick_px_frontend) |
+| **MAIRRY** | 신혼(예비)부부들의 계약서 및 자금 계획을 관리하는 금융 AI 서비스입니다. (2026 금융 AI 챌린지 출품작) 계약서 관리와 챗봇 파트 구현을 맡아 rag, vector DB 등의 기술을 적용했습니다. | [Repository](https://github.com/anonymity-developer/MAIRRY) |
 
 ## 🛠️ Tech Stacks
 
@@ -30,13 +30,15 @@ Pick-Px에서 PM과 백엔드 개발을 맡아 실시간 픽셀 업데이트의 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot">
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS">
 
-<strong>Data </strong><br>
+<strong>DB</strong><br>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis">
 
 <strong>Infrastructure &amp; Tools</strong><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
 
 </div>
