@@ -11,7 +11,7 @@
 
 | 프로젝트 | 역할과 내용 | 코드 |
 | --- | --- | --- |
-| **Pick-Px** | 여러 사용자가 동시에 하나의 캔버스를 공유하며 자율적으로 경쟁/협력하는 웹게임입니다. r/place에서 착안하여 게이미피케이션과 그룹화 기능을 추가했습니다.  PM·백엔드를 맡아 프로젝트를 리드하고, 초당 1500건의 요청을 처리하는 시뮬레이터 동작시에도 안정적인 서버 구조를 고민했습니다.| [Backend](https://github.com/anonymity-developer/Pick-px-backend) · [Frontend](https://github.com/anonymity-developer/pick_px_frontend) |
+| **Pick-Px** | 여러 사용자가 동시에 하나의 캔버스를 공유하며 자율적으로 경쟁/협력하는 웹게임입니다. r/place에서 착안하여 게이미피케이션과 커뮤니케이션 기능을 추가했습니다.  PM·백엔드를 맡아 프로젝트를 리드하고, 초당 1500건의 요청을 처리하는 시뮬레이터 동작시에도 안정적인 서버 구조를 고민했습니다.| [Backend](https://github.com/anonymity-developer/Pick-px-backend) · [Frontend](https://github.com/anonymity-developer/pick_px_frontend) |
 | **MAIRRY** | 신혼(예비)부부들의 계약서 및 자금 계획을 관리하는 금융 AI 서비스입니다. (2026 금융 AI 챌린지 출품작) 계약서 관리와 챗봇 파트 구현을 맡아 rag, vector DB 등의 기술을 적용했습니다. | [Repository](https://github.com/anonymity-developer/MAIRRY) |
 
 ## 🛠️ Tech Stacks
